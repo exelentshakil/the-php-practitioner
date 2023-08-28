@@ -1,0 +1,19 @@
+{
+    "name": "exelentshakil/the-php-practitioner",
+    "description": "A PHP Beginner series by Jeffry Way",
+    "type": "project",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Exelentshakil\\ThePhpPractitioner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "exelentshakil",
+            "email": "exelentshakil@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
